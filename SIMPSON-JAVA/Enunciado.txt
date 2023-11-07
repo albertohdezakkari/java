@@ -1,0 +1,9 @@
+1º) Representa un tablero de juego (1 jugador) mediante una matriz de carácteres de 10x10.
+2º) Sitúa al jugador (Bart Simpson) en el tablero de forma aleatoria y represéntalo con el carácter ‘B’ (Bart).
+3º) Rellena aleatoriamente con 10 “Homer Simpson” letra “H” sobre el tablero de “Bart”.
+4º) Rellena aleatoriamente con 10 “Muros” letra “M” sobre el tablero de “Bart”. Un muro no me permite desplazarme y tendré que tomar otro camino.
+5º) Las celdas que no estén ocupadas por los personajes de los “Simpson”, “Muros” , “Casilla Final” y “Pócimas”, quedarán representadas con la letra ‘L’. Controlar que no se sobrescriban las casillas.
+6º) Las celdas que no estén ocupadas por los personajes de los “Simpson”, “Muros” , “Casilla Final”, quedarán representadas con la letra ‘L’. Controlar que no se sobrescriban las casillas. 
+7º) Cada jugador tiene 5 vidas, si cae en una casilla donde se encuentra un “personaje malo (Homer)”, perderá una vida. 
+8º) El objetivo del juego es llegar a la casilla final (9,9) que representaremos con la letra “F”. 
+9º) El jugador pierde la partida cuando se queda sin las 5 vidas.
